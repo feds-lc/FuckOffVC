@@ -1,0 +1,7 @@
+{
+  "name": "FuckOffVC",
+  "description": "Stops all VC noficications.",
+  "authors": [{ "name": "sw6m (Solar)" }],
+  "main": "FuckOffVC.js"
+  "version": "1.0"
+}
